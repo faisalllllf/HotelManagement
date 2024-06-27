@@ -48,9 +48,11 @@ public class UserController {
 		System.out.println("userName from seesion in searchRoom Api"+userName);
 	
 		
-		return "userHome";
+		return "SearchRooms";
 	}
 	
+	
+//	/user/SearchRoom
 	
 
 }
